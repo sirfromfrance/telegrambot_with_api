@@ -11,7 +11,7 @@ using Telegram.Bot.Types.Enums;
 using Telegram.Bot.Types.ReplyMarkups;
 using telegrambot_V2;
 
-namespace telegram_bot_for_Valera
+namespace telegram_bot_k
 {
 
     class Program
