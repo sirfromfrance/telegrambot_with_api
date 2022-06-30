@@ -130,7 +130,7 @@ namespace telegram_bot_k
                         {
                             _ = await botClient.SendTextMessageAsync(
                             chatId: chatId,
-                            text: $"test",                                  //допиши інструкцію до бота
+                            text: $"test",                                  
                             cancellationToken: cancellationToken);
                         }
                         break;
@@ -149,7 +149,7 @@ namespace telegram_bot_k
                         {
                             _ = await botClient.SendTextMessageAsync(
                             chatId: chatId,
-                            text: $"test",                                      // вставь свій тг user name 
+                            text: $"test",                                      
                             cancellationToken: cancellationToken);
                         }
                         break;
